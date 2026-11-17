@@ -1,0 +1,17 @@
+VIE - INTEGRATION DES 6 DOSSIERS
+
+Les six dossiers de livraison sont : NOUREDDINE, IMEN, RANE, AZIZ, MARIEM et CHAIMA.
+Il n'y a pas de septieme dossier.
+
+METHODE :
+1. Creer un dossier commun nomme vie.
+2. Ouvrir chaque dossier membre puis son sous-dossier vie.
+3. Fusionner son contenu dans le dossier commun vie en gardant les chemins.
+4. Si Windows demande de fusionner des dossiers, choisir oui.
+5. Ne pas remplacer un fichier existant sans comparer les versions.
+6. Importer vie/database/database.sql dans phpMyAdmin.
+7. Verifier les identifiants MySQL dans vie/config.php et vie/includes/db.php.
+8. Lancer Apache et MySQL puis ouvrir http://localhost/vie/home.php.
+9. Tester le routage back-office via http://localhost/vie/index.php?page=dashboard.
+
+Chaque fichier source de l'archive initiale est distribue une seule fois entre les six membres.
