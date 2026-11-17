@@ -2,7 +2,7 @@
 # Vie - Plateforme de Santé & Accompagnement
 
 # Overview (Aperçu)
-Ce projet a été développé dans le cadre du programme de 3ème année d'ingénierie à Esprit School of Engineering – Tunisia (Année universitaire 2025-2026). 
+Ce projet a été développé dans le cadre du programme de 2ème année d'ingénierie à Esprit School of Engineering – Tunisia (Année universitaire 2026-2027). 
 Il s'agit d'une application web complète dédiée à la sensibilisation médicale, la gestion des dossiers, des rendez-vous et des services communautaires de santé.
 
 ## Modules & Fonctionnalités
