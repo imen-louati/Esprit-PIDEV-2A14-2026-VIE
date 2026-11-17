@@ -31,3 +31,7 @@ Il s'agit d'une application web complète dédiée à la sensibilisation médica
 ## Academic Context
 Developed at Esprit School of Engineering – Tunisia  
 PIDEV - 2A14 | 2025-2026
+
+## Remerciements
+Nous remercions Esprit School of Engineering – Tunisia pour l'encadrement et l'accompagnement pédagogique dans la réalisation de ce projet.
+Nous remercions également notre encadrant ainsi que toutes les personnes ayant contribué à la réalisation et à l'amélioration de la plateforme VIE.
